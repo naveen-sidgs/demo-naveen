@@ -1,0 +1,12 @@
+{
+	"domains": {
+		"dev": "https://${org}-${env}.apigee.net"
+	},
+	"sidgs-${teamName}-hello-wordlnaveen": {
+		"basepath": "/v1/hello-wordlnaveen",
+		"product":"hello-wordlnaveenProduct",
+		"app":"hello-wordlnaveenApp",
+		"org":"${org}",
+		"env":"${env}"
+	}
+}

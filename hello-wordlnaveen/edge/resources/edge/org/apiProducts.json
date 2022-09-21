@@ -1,0 +1,29 @@
+[
+    {
+        "name": "hello-wordlnaveenProduct",
+        "apiResources": [],
+        "approvalType": "auto",
+        "attributes": [
+            {
+                "name": "description",
+                "value": "hello-wordlnaveenProduct"
+            },
+            {
+                "name": "access",
+                "value": "private"
+            }
+        ],
+        "description": "hello-wordlnaveenProduct",
+        "displayName": "hello-wordlnaveenProduct",
+        "environments": [
+            "${env}"
+        ],
+        "proxies": [
+            "sidgs-${teamName}-hello-wordlnaveen"
+        ],
+        "quota": "10000",
+        "quotaInterval": "1",
+        "quotaTimeUnit": "month",
+        "scopes": []
+    } 
+]

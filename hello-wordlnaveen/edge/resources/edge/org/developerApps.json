@@ -1,0 +1,12 @@
+{
+    "integration-tester@sidgs.com": [
+        {
+            "apiProducts": [
+                "hello-wordlnaveenProduct"
+            ],
+            "callbackUrl": "",
+            "name": "hello-wordlnaveenApp",
+            "scopes": []
+        }
+    ]
+}
